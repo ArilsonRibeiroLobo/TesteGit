@@ -6,3 +6,4 @@ alo
 novato
 stash
 
+versão 2.0
