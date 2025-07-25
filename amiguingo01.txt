@@ -1,2 +1,6 @@
 meu primeiro
 valeu bemvenido
+<<<<<<< HEAD
+=======
+novato escrevendo
+>>>>>>> novato
