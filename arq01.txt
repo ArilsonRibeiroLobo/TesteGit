@@ -3,7 +3,4 @@ yyy
 444merge
 alo
 
-novato
-stash
-
-versão 2.0
+errei porc
